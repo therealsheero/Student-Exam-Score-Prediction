@@ -8,7 +8,7 @@ This project aims to predict a student's final grade (`G3`) using their demograp
 
 ```
 
-├── Training &Prediction.ipynb             # Model training and evaluation, make predictions on new student data, feature engineering and transformation functions
+├── Training&Prediction.ipynb             # Model training and evaluation, make predictions on new student data, feature engineering and transformation functions
 ├── student-mat.csv      # Student data (math class)
 ├── student-por.csv      # Student data (Portuguese class)
 ├── scaler.pkl           # Saved feature scaler (StandardScaler)
